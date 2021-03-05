@@ -61,6 +61,13 @@ I am starting to make my portfolio where I will be uploading my projects that I 
 
 <br/>
 
+<br/>
+
+<a href="https://github.com/elmergustavo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
+
 <!--
 **elmergustavo/elmergustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
