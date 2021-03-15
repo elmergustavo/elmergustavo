@@ -2,7 +2,7 @@
 
 I am starting to make my portfolio where I will be uploading my projects that I have done throughout my career.
 
-![mi perfil](https://user-images.githubusercontent.com/42653934/110027858-1fab8480-7cf8-11eb-9ad5-992bc5fdc60e.png)
+![mi perfil](https://github.com/elmergustavo/portafolio/blob/master/portada.PNG)
 
 # Redes sociales:
 <p align="center">
