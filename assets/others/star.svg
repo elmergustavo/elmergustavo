@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" viewBox="0 0 16 16" id="svg3771" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="25,star,bookmark,favorite,shape,rank.svg">
+  <defs id="defs3773">
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5569" id="linearGradient5575" x1="-1483.3961" y1="1056.787" x2="-1155.7671" y2="1056.787" gradientUnits="userSpaceOnUse"/>
+    <linearGradient inkscape:collect="always" id="linearGradient5569">
+      <stop style="stop-color:#fcd635;stop-opacity:1;" offset="0" id="stop5571"/>
+      <stop style="stop-color:#f7a928;stop-opacity:1" offset="1" id="stop5573"/>
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="15.839192" inkscape:cx="7.4840655" inkscape:cy="12.261897" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="true" units="px" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:window-width="1366" inkscape:window-height="705" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1">
+    <inkscape:grid type="xygrid" id="grid3779"/>
+  </sodipodi:namedview>
+  
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-1036.3622)">
+    <path sodipodi:type="star" style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5575);fill-opacity:1;stroke:none;stroke-width:21.89333725;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" id="path4512-3" sodipodi:sides="5" sodipodi:cx="-1320" sodipodi:cy="1072.3622" sodipodi:r1="172.04651" sodipodi:r2="95.435059" sodipodi:arg1="0.95054684" sodipodi:arg2="1.5788654" inkscape:flatsided="false" inkscape:rounded="0.13" inkscape:randomized="0" d="m -1220,1212.3622 c -11.656,8.3257 -86.4464,-44.4525 -100.7701,-44.5681 -14.3237,-0.1155 -89.9559,51.4489 -101.4761,42.9361 -11.5202,-8.5127 15.5634,-95.9519 11.2471,-109.6103 -4.3164,-13.6584 -76.7287,-69.6546 -72.1925,-83.2416 4.5362,-13.5869 96.0651,-14.8491 107.7211,-23.17482 11.656,-8.32575 42.535,-94.49779 56.8587,-94.38221 14.3237,0.11559 43.8081,86.77471 55.3283,95.28747 11.5202,8.51276 103.0168,11.25186 107.3331,24.91016 4.3164,13.6584 -68.9902,68.4788 -73.5264,82.0658 -4.5362,13.5869 21.1328,101.4517 9.4768,109.7775 z" inkscape:transform-center-x="-0.019115267" inkscape:transform-center-y="-0.71045334" transform="matrix(0.04573926,0,0,0.04561282,68.849439,996.02231)"/>
+  </g>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Star, Bookmark, Favorite, Shape, Rank, Like" dc:description="Star, Bookmark, Favorite, Shape, Rank, Like" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Chamestudio</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
