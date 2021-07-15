@@ -36,7 +36,7 @@ https://elmergustavo.github.io/
 
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
 <p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
-<img src="./assets/babel.svg" alt="babel" width="40" height="40"/> 
+
 <img src="./assets/css3.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="./assets/gatsby.svg" alt="gatsby" width="40" height="40"/> 
@@ -49,10 +49,8 @@ https://elmergustavo.github.io/
 <img src="./assets/react.svg" alt="react" width="40" height="40"/> 
 <img src="./assets/redux.svg" alt="redux" width="40" height="40"/> 
 <img src="./assets/sass.svg" alt="sass" width="40" height="40"/> 
-<img src="./assets/tailwindcss.svg" alt="tailwind" width="40" height="40"/> 
 <img src="./assets/typescript.svg" alt="typescript" width="40" height="40"/>
 <img src="./assets/python.svg" alt="python" width="40" height="40"/>
-<img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" width="40" height="40"/>
 </p>
 
 <p style="text-align: center; margin: 1.5rem 0;" align='center'>
