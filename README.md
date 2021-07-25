@@ -67,6 +67,7 @@ https://elmergustavo.github.io/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elmergustavo&show_icons=true&theme=algolia&line_height=29&hide=stars&count_private=true%22%20style=%22vertical-align:middle)
 
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=elmergustavo&theme=rogue" />
 
   <!--
 - 💻 &nbsp;
@@ -98,6 +99,7 @@ https://elmergustavo.github.io/
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
+
 
 -->
   
