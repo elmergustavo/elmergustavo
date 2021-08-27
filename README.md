@@ -39,11 +39,11 @@ https://elmergustavo.github.io/
 
 <img src="./assets/css3.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<img src="./assets/gatsby.svg" alt="gatsby" width="40" height="40"/> 
+ <!--   <img src="./assets/gatsby.svg" alt="gatsby" width="40" height="40"/>  -->
 <img src="./assets/git.svg" alt="git" width="40" height="40"/>
 <img src="./assets/html.svg" alt="html5" width="40" height="40"/>
 <img src="./assets/javascript.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" width="40" height="40"/> 
+<!-- <img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" width="40" height="40"/>  -->
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
 <img src="./assets/nodejs.svg" alt="nodejs" width="40" height="40"/> 
 <img src="./assets/react.svg" alt="react" width="40" height="40"/> 
