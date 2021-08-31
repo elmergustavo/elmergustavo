@@ -59,14 +59,15 @@ https://elmergustavo.github.io/
 
 <br/>
 
-<a href="https://github.com/elmergustavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elmergustavo" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmergustavo" />
-</a>
+ <br/>
+    <a href="https://github.com/elmergustavo/elmergustavo"><img alt="" src="https://github-readme-stats.vercel.app/api?username=elmergustavo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://elmergustavo.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmergustavo&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
 
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elmergustavo&show_icons=true&theme=algolia&line_height=29&hide=stars&count_private=true%22%20style=%22vertical-align:middle)
-
+-->
 
   <!--
 - 💻 &nbsp;
