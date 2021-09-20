@@ -45,9 +45,10 @@ https://elmergustavo.github.io/
 <img src="./assets/javascript.svg" alt="javascript" width="40" height="40"/> 
 <!-- <img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" width="40" height="40"/>  -->
  <!-- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> -->
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="nodejs" width="40" height="40"/>  
 <img src="./assets/nodejs.svg" alt="nodejs" width="40" height="40"/> 
 <img src="./assets/react.svg" alt="react" width="40" height="40"/> 
-<img src="./assets/redux.svg" alt="redux" width="40" height="40"/> 
+<!-- <img src="./assets/redux.svg" alt="redux" width="40" height="40"/>  -->
 <img src="./assets/sass.svg" alt="sass" width="40" height="40"/> 
 <img src="./assets/typescript.svg" alt="typescript" width="40" height="40"/>
 <img src="./assets/python.svg" alt="python" width="40" height="40"/>
