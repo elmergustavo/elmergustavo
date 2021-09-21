@@ -1,5 +1,6 @@
-### Hi, I'm Gustavo   👋💻 :adult:
-<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Elmer Gustavo Pú 👨‍💻 
+
+<!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
 
 I am starting to make my portfolio where I will be uploading my projects that I have done throughout my career.
 
