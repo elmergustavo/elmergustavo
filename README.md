@@ -58,8 +58,8 @@
 <br/>
 
  <br/>
-    <a href="https://github.com/elmergustavo/elmergustavo"><img alt="" src="https://github-readme-stats.vercel.app/api?username=elmergustavo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://elmergustavo.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmergustavo&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/elmergustavo/elmergustavo"><img alt="" src="https://github-readme-stats.vercel.app/api?username=elmergustav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://elmergustavo.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmergustav&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
