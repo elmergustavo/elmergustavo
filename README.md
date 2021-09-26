@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Elmer Gustavo Pú 👨‍💻 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Gustavo 👨‍💻 
 
 <!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
 
@@ -29,7 +29,7 @@
 - 🎓 &nbsp; I study computer science and systems engineering at the Rafael Landívar University.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
 <p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
