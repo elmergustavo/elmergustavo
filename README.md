@@ -29,6 +29,8 @@
 - 🎓 &nbsp; I study computer science and systems engineering at the Rafael Landívar University.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
+<hr>
+
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
