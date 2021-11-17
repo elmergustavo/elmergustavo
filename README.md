@@ -33,7 +33,6 @@
 
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
-<h2 style="margin: 1rem 0;">📚 My Stack<h3>
 
  ## Front-End Technologies:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -53,7 +52,7 @@
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png"/></code>
 <code><img height="50" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>
 <code><img height="50" src="https://davidrengifo.files.wordpress.com/2017/09/mongodb-logo.png" alt="MONGO"/></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/xampp_94513.png" alt="XXAMP"/></code>
+<code><img height="50" src="https://github.com/elmergustavo/elmergustavo/blob/master/assets/python.svg" alt="Python"/></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="POSTMAN"/></code>
 <!-- <code><img height="50" src="https://argoitz.com/wp-content/uploads/2020/03/express-logo.png" alt="EXPRESS"/></code> -->
 <!--  <code><img height="50" src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="EJS"/></code>  -->
