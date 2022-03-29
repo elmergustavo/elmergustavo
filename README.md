@@ -44,6 +44,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="React"/></code>
+<code><img height="50" src="https://github.com/angular/angular/raw/master/aio/src/assets/images/logos/angular/angular.png" alt="React"/></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass"/></code>
 
  
@@ -54,6 +55,7 @@
 -->
 
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"/></code>
+<code><img height="40" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"/></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png"/></code>
 <code><img height="50" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>
 <code><img height="50" src="https://davidrengifo.files.wordpress.com/2017/09/mongodb-logo.png" alt="MONGO"/></code>
