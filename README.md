@@ -6,15 +6,6 @@
 
 <div>
  
- 
- # <h1><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h1>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elmergustavo&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
-<img src="https://github-readme-stats.vercel.app/api?username=elmergustavo&show_icons=true&theme=radical&layout=compact" alt="Bhavya's Github Stats" height=160 />
-<p>
-
-
 
 
 ![](https://img.shields.io/github/followers/elmergustavo?label=follow&logo=github&style=flat-square)
@@ -24,8 +15,7 @@
 
 <!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
 
-![mi perfil]
-![](https://github.com/elmergustavo/elmergustavo/blob/master/linkedin.jpg)
+![mi perfil](https://github.com/elmergustavo/elmergustavo/blob/master/linkedin.jpg)
 
 # Redes sociales:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
