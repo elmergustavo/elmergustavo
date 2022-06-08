@@ -1,4 +1,21 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Gustavo 👨‍💻 
+<div>
+
+# 👋 Hi there, I am <a href="https://bhavya.dev](https://elmergustavo.github.io/">Elmer Gustavo Pú!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+
+</div>
+
+<div>
+ 
+ 
+ # <h1><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h1>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elmergustavo&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=elmergustavo&show_icons=true&theme=radical&layout=compact" alt="Bhavya's Github Stats" height=160 />
+<p>
+
+
+
 
 ![](https://img.shields.io/github/followers/elmergustavo?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/elmergustavo?label=%E2%AD%90GitHub%20stars&style=flat-square)
