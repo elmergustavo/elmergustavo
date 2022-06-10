@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I am <a href="https://bhavya.dev](https://elmergustavo.github.io/">Elmer Gustavo Pú!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I am <a href="https://elmergustavo.github.io/">Elmer Gustavo Pú!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
