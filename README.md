@@ -46,11 +46,17 @@
 
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
+<br/>
+
 
  ## Front-End Technologies:
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,sass,materialui,tailwind,figma )](https://skillicons.dev)
-
  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,angular,sass,materialui,tailwind,figma" />
+  </a>
+</p>
+
  ## Back-End Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
