@@ -15,7 +15,7 @@
 
 <!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
 
-![mi perfil](https://github.com/elmergustavo/elmergustavo/blob/master/LinkedIn%20Diagram.jpg)
+![mi perfil](https://github.com/elmergustavo/elmergustavo/blob/master/github.png)
 
 # Redes sociales:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
