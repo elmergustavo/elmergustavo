@@ -60,7 +60,7 @@
  ## Back-End Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mysql,mongo,php,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mysql,mongo,php,laravel,git" />
   </a>
 </p>
 
