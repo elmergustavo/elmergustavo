@@ -51,6 +51,25 @@
 
 <br/>
 
+## Algunos vídeos en YouTube:
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/wk9B7mHsQvs">
+<img src="https://github.com/elmergustavo/elmergustavo/blob/master/assets/java/curso%20java%20parte%201.png">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/wk9B7mHsQvs">
+<img src="https://github.com/elmergustavo/elmergustavo/blob/master/assets/java/curso%20java%20parte%202.png">
+</a>
+</td>
+
+</tr>
+</table>
+
+
 
  ## Front-End Technologies:
  
